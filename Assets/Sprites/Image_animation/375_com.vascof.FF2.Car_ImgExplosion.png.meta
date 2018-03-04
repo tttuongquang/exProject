@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: c4933c9168e9c524a876d5f051c26099
+timeCreated: 1519720589
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 375_com.vascof.FF2.Car_ImgExplosion_0
+    21300002: 375_com.vascof.FF2.Car_ImgExplosion_1
+    21300004: 375_com.vascof.FF2.Car_ImgExplosion_2
+    21300006: 375_com.vascof.FF2.Car_ImgExplosion_3
+    21300008: 375_com.vascof.FF2.Car_ImgExplosion_4
+    21300010: 375_com.vascof.FF2.Car_ImgExplosion_5
+    21300012: 375_com.vascof.FF2.Car_ImgExplosion_6
+    21300014: 375_com.vascof.FF2.Car_ImgExplosion_7
+    21300016: 375_com.vascof.FF2.Car_ImgExplosion_8
+    21300018: 375_com.vascof.FF2.Car_ImgExplosion_9
+    21300020: 375_com.vascof.FF2.Car_ImgExplosion_10
+    21300022: 375_com.vascof.FF2.Car_ImgExplosion_11
+    21300024: 375_com.vascof.FF2.Car_ImgExplosion_12
+    21300026: 375_com.vascof.FF2.Car_ImgExplosion_13
+    21300028: 375_com.vascof.FF2.Car_ImgExplosion_14
+    21300030: 375_com.vascof.FF2.Car_ImgExplosion_15
+    21300032: 375_com.vascof.FF2.Car_ImgExplosion_16
+    21300034: 375_com.vascof.FF2.Car_ImgExplosion_17
+    21300036: 375_com.vascof.FF2.Car_ImgExplosion_18
+    21300038: 375_com.vascof.FF2.Car_ImgExplosion_19
+    21300040: 375_com.vascof.FF2.Car_ImgExplosion_20
+    21300042: 375_com.vascof.FF2.Car_ImgExplosion_21
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 377
+        width: 113
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 377
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 373
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 369
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 248
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 246
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 247
+        width: 107
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 251
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 128
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 124
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 124
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 127
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 6
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 375_com.vascof.FF2.Car_ImgExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 12
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
